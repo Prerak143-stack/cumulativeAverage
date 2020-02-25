@@ -1,6 +1,4 @@
-# I am Prerak Patel and my number is 000736376, I have designed this
-# program by myself and I have not shared this anyone. My professor's name is
-# TIfanfull_length,Antopoloski
+
 
 Code_of_Course = "DONE"
 total_hours = 0
